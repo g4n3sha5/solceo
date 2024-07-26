@@ -4,7 +4,7 @@ import twitterimg from '@/public/images/twitter.png';
 import telegramimg from '@/public/images/telegram.png';
 import dextoolsimg from '@/public/images/dextools.svg';
 
-export const ca: string = '';
+export const ca: string = 'D9NiNdfqErhfWHTGyybpccRh7vFFC996BDgeepnMpump';
 export const telegram = 'https://t.me/CEOofSolana';
 export const twitter = 'https://x.com/Solana_CEO';
 export const dextools = '';

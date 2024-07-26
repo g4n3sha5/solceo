@@ -38,6 +38,7 @@ export default function Hero() {
         <Image
           src={heroimg}
           width={0}
+          priority={true}
           height={0}
           className="absolute inset-0  z-20 bottom-0 w-full h-full object-fill"
           alt="Background"

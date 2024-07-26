@@ -14,7 +14,7 @@ const inter = Inter({
 
 export const metadata = {
   title: '$SOLCEO - Can Solana CEO do sumthing?',
-  description: 'Welcome to our private domicile, bitch!',
+  description: '',
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
